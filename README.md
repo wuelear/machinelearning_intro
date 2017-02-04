@@ -22,3 +22,8 @@ https://www.udacity.com/course/deep-learning--ud730
 
 (7) Another mini course
 http://machinelearningmastery.com/python-machine-learning-mini-course/
+
+
+
+Misc:
+https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3 -> super mario example
