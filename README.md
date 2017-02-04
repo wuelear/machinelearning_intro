@@ -19,3 +19,6 @@ http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
 (6) Udacity course
 https://www.udacity.com/course/deep-learning--ud730 
+
+(7) Another mini course
+http://machinelearningmastery.com/python-machine-learning-mini-course/
