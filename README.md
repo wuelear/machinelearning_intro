@@ -16,3 +16,6 @@ pip install keras
 
 (5) Introduction course with keras
 http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+
+(6) Udacity course
+https://www.udacity.com/course/deep-learning--ud730 
