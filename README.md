@@ -29,3 +29,6 @@ http://machinelearningmastery.com/python-machine-learning-mini-course/
 
 Super mario example
 https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3
+
+MXNET library for python, R and even javascript:
+http://mxnet.io/
